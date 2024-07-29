@@ -26,7 +26,7 @@ const Layout = ({
           className={`rounded-full object-cover ${
             home ? "w-36 h-36" : "w-28 h-28"
           }`}
-          src="/images/luffy.png"
+          src="/images/profile.jpg"
           height={home ? 144 : 108}
           width={home ? 144 : 108}
           alt="luffy"
